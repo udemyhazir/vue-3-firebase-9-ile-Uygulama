@@ -1,2 +1,19 @@
-# vue-3-firebase-9-ile-Uygulama
-Vue 3 ve Firebase 9 ile Sosyal Medya Uygulaması
+# aos-sosyal-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
